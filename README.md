@@ -1,7 +1,7 @@
 # System prototype for biathlon competitions
 ## What is it
 This app is build for parsing, transforming and aggregating information of triathlon events.
-Input, output, log and config formats are described in [desc.md](./README.md).
+Input, output, log and config formats are described in [desc.md](./desc.md).
 
 ## Usage
 ```shell
